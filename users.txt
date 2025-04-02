@@ -1,0 +1,10 @@
+john;qa
+jane;dev,manager
+robert;marketing
+emily;design,research
+michael;devops
+olivia;design,research
+william;support
+sophia;content,marketing
+daniel;devops,sre
+ava;dev,qa
